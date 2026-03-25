@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - Java-based Applications
 - Smart Automation Systems
 
-- ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
