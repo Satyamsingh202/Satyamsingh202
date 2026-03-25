@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Satyam 👋  
+Aspiring Full Stack Developer | Building Real-World Projects 🚀
 
 <!--
 **Satyamsingh202/Satyamsingh202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,23 +17,17 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 
-🎓 BTech CSE Student at Bennett University  
-💡 Passionate about Web Development & Problem Solving  
-⚡ Interested in AI/ML and building real-world projects  
+🎓 BTech CSE @ Bennett University  
+💻 Focused on Full Stack Development & Java-based Applications  
+⚡ Interested in AI/ML and solving real-world problems  
 
-🚀 I love working on:
-- Full Stack Development
-- Java-based Applications
-- Smart Automation Systems
-
-
-📈 Currently improving:
-- Data Structures & Algorithms
-- Backend Development
-- System Design
+🚀 Currently:
+- Building projects to strengthen development skills
+- Learning Data Structures & Backend Development
 
 🎯 Goal:
-To become a skilled developer and build impactful tech products
+To become a skilled Full Stack Developer and build impactful tech products
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
@@ -44,6 +39,8 @@ To become a skilled developer and build impactful tech products
 
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge)]((https://www.instagram.com/satyamkumar7216/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/satyamkumarsingh-career)
+![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)
+
 ## 📊 GitHub Stats
 
 ![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyamsingh202&show_icons=true&theme=tokyonight)
