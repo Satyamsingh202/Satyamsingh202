@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 - Java-based Applications
 - Smart Automation Systems
 
+- ## 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+
 📈 Currently improving:
 - Data Structures & Algorithms
 - Backend Development
