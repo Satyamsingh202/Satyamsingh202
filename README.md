@@ -40,3 +40,8 @@ Here are some ideas to get you started:
 
 🎯 Goal:
 To become a skilled developer and build impactful tech products
+## 📊 GitHub Stats
+
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satyamsingh202&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsingh202&layout=compact&theme=tokyonight)
